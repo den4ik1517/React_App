@@ -1,0 +1,35 @@
+.Header {
+   align-items: center;
+   background: #82ccf1;
+   border: 1px solid #000000;
+   border-radius: 0px;
+   padding: 1vh 8vw 1vh 8vw;
+}
+
+.Header nav {
+   display: flex;
+   justify-content: space-between;
+}
+
+.Header nav ul {
+   list-style: none;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row;
+   margin: 0;
+}
+
+.Header a {
+   color: #000000;
+   font-style: normal;
+   font-weight: 600;
+   text-decoration: none;
+   text-align: center;
+   padding: 1vh 1.5vw;
+}
+
+.Header a:hover {
+   background: #e0e0e0;
+   border: none;
+   border-radius: 30px;
+}
