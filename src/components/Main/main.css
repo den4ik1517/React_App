@@ -1,0 +1,50 @@
+.Main {
+   padding: 0vw 8vw 6vh 8vw;
+}
+
+.Title{
+   display: flex;
+   justify-content: center;
+}
+
+.Par{
+   display: flex;
+   justify-content: center;
+}
+
+.MainInformation {
+   padding: 5vh 0vh 5vh 0vh;
+   display: flex;
+   justify-content: center;
+}
+
+.MainInformation img {
+   width: 35%;
+   border-radius: 30px;
+}
+
+.MainInformation div {
+   width: 58%;
+}
+
+.MainInformation div p{
+   font-size: 1.5rem;
+}
+
+.MainCamera {
+   display: flex;
+   justify-content: space-between;
+}
+
+.button {
+   background-color: black;
+   color: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 40px;
+   margin-left: 545px;
+   height: 50px;
+   width: 150px;
+   border-radius: 15px;
+}
