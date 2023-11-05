@@ -1,0 +1,56 @@
+.Sellcamera {
+   margin: 0 8vw;
+   margin-top: 2vh;
+   height: 12vh;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+   border: 1px solid black;
+   border-radius: 15px;
+   font-family: Arimo;
+   font-size: 18px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: rgb(54, 130, 115, 0.5);
+   opacity: 0,5;
+}
+
+.title {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 22%;
+   font-size: larger;
+}
+
+.imgg {
+   height: 98%;
+   border-radius: 12px 0 0 12px;
+}
+
+
+.count {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   width: 14%;
+}
+
+.sp5 {
+   cursor: pointer;
+   height: 0.8rem;
+   width: 0.8rem;
+   display: flex;
+   text-align: center;
+   border: 0.5px solid black;
+   border-radius: 5px;
+   padding: 0.5vw;
+}
+
+
+.price {
+   display: flex;
+   align-items: center;
+   padding-right: 3vw;
+}

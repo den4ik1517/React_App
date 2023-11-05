@@ -1,0 +1,48 @@
+.cameraItem {
+   height: 25%;
+   width: 20%;
+   display: flex;
+   flex-direction: column;
+   border-radius: 10px;
+   border: black solid 1.2px;
+   margin-bottom: 4%;
+   margin-left: 3.5vw;
+   font-family: 'Source Sans Pro';
+   background-color: rgb(54, 130, 115, 0.5);
+}
+
+.item {
+   border-radius: 10px 10px 0px 0px;
+   margin: 0;
+   margin-bottom: 5%;
+   padding-left: 5%;
+   padding-bottom: 2%;
+   background-color: #f27d7d;
+}
+
+.imgcam {
+   padding: 0% 10%;
+   width: 80%;
+}
+
+.view {
+   color: white;
+   width: 80%;
+   padding: 5% 0;
+   margin: 10%;
+   border: none;
+   font-style: normal;
+   text-decoration: none;
+   text-align: center;
+   background: #d766c6;
+   font-size: 1.2rem;
+   border-radius: 10px;
+}
+
+.textcamera {
+   margin: 0% 10%;
+}
+
+.text {
+   text-align: center;
+}

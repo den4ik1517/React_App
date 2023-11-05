@@ -7,6 +7,7 @@
 }
 
 .Header nav {
+   color: white;
    display: flex;
    justify-content: space-between;
 }
@@ -32,8 +33,4 @@
    background: #e0e0e0;
    border: none;
    border-radius: 30px;
-}
-
-.LogoHeader {
-   color: white;
 }
